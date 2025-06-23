@@ -1,7 +1,4 @@
-## Hi there 👋
-
-
-# About Me
+## About Me
 
 - **ABAP/Fiori Developer**: Building robust SAP applications with modern UI.
 - **Music Enthusiast**: Passionate about music as a creative hobby.
